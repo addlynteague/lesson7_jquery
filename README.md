@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 17 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Addlyn Teague)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I add feautures that animate how the ingredients and instructions lists are shown and dropped down.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://addlynteague.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Every statement you use in jQuery starts with an $.)
+2. (When you use the next() method, it will select the next sibling following the element you have previously chosen.)
+3. (The previous() method will select the element preceeding the sibling's element you previously chose.)
 
